@@ -6,3 +6,4 @@ First of all,you need to have a Linux system,if you don't have,you can install o
 After you have a Virtual machine for Linux system,let's get started with docker!
 First,choose your type of Linux system on official page(https://docs.docker.com/engine/install/) and follow it's steps,and the most difficult thing is building a 'docker-compose.yml' to use every tools you want on your virtual machine.
 
+This example docker-compose.yml has four tools in it,Elasticsearch,logstash,Kibana,and last one is jupyter to type code inside.
